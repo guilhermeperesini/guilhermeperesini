@@ -1,4 +1,6 @@
-<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+<head>
+<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />  
+</head>
 
 ## Olá, me chamo Guilherme Peresini! 
 ### Bem vindo ao meu perfil GitHub 👋
