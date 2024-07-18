@@ -10,7 +10,7 @@
 
 #### Ferramentas e Tecnologias
 
-<i class="devicon-cypressio-plain"></i>
+<i class="devicon-cypressio-plain" font-size="16px"></i>
           
           
           
