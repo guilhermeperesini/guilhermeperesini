@@ -9,8 +9,8 @@
 - 🌱 Mas também sou um entusiasta em FrontEnd
 
 #### Ferramentas e Tecnologias
+<body><i class="devicon-cypressio-plain" font-size="16px"></i></body>
 
-<i class="devicon-cypressio-plain" font-size="16px"></i>
           
           
           
