@@ -10,7 +10,7 @@
 
 #### Ferramentas e Tecnologias
 
-<img class="devicon-cypressio-plain" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-line.svg" width="40" height="40"/>
+<i class="devicon-cypressio-plain"></i>
           
           
           
