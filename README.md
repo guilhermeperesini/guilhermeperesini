@@ -1,3 +1,6 @@
+<head><link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+</head>
+
 ## Olá, me chamo Guilherme Peresini! 
 ### Bem vindo ao meu perfil GitHub 👋
 
@@ -6,7 +9,9 @@
 
 #### Ferramentas e Tecnologias
 
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-plain.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-plain.svg" width="40" height="40"/>
+<i loading="lazy" class="devicon-cypressio-plain-wordmark" font-size="40"></i>
+
 
           
           
