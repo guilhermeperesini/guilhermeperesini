@@ -28,7 +28,7 @@ Sou um analista de testes apaixonado por tecnologia e inovação. E um entusiata
 ## 📫 Entre em Contato
 
 - Email: guilhermeperesini@gmail.com
-- LinkedIn: [linkedin.com/in/seu-usuario](https://www.linkedin.com/in/guilhermeperesini)
+- LinkedIn: [linkedin.com/in/guilhermeperesini](https://www.linkedin.com/in/guilhermeperesini)
 
 ---
 
