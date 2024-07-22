@@ -23,12 +23,7 @@ Sou um analista de testes apaixonado por tecnologia e inovação. E um entusiata
 
 ## 📊 GitHub Stats
 
-![Guilherme Peresini's GitHub Stats](https://github-readme-stats.vercel.app/api?username=guilhermeperesini&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermeperesini&layout=compact&theme=radical)
-
-## 🏆 GitHub Trophies
-![trophy](https://github-profile-trophy.vercel.app/?username=guilhermeperesini&theme=radical)
+![Guilherme Peresini's GitHub Stats](https://github-readme-stats.vercel.app/api?username=guilhermeperesini&show_icons=true&theme=shades-of-purple)
 
 ## 📫 Entre em Contato
 
